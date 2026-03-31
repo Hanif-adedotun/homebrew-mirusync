@@ -6,7 +6,7 @@ class Mirusync < Formula
     desc "Folder sync between two machines over SSH"
     homepage "https://github.com/hanif-adedotun/mirusync"
     url "https://github.com/hanif-adedotun/mirusync/archive/refs/tags/v0.1.1.tar.gz"
-    sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+    sha256 "888ad634f9b90e68ff3ec6c327ac2584b57ac95ee0d05192d1e49886b236f70b"
     version "0.1.1"
     license "MIT"
     head "https://github.com/hanif-adedotun/mirusync.git", branch: "main"
