@@ -7,7 +7,7 @@ class Mirusync < Formula
     homepage "https://github.com/hanif-adedotun/mirusync"
     url "https://github.com/hanif-adedotun/mirusync/archive/refs/tags/v0.1.4.tar.gz"
     sha256 "99400ae440b6ebfb881d8b4e3f592c3a0539e139557bad4e6b90f63744547419"
-    version "0.1.3"
+    version "0.1.4"
     license "MIT"
     head "https://github.com/hanif-adedotun/mirusync.git", branch: "main"
   
